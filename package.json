@@ -1,0 +1,19 @@
+{
+  "name": "utility-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albennett/utility-functions.git"
+  },
+  "author": "Amy Bennett <:wqamyleeannebennett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albennett/utility-functions/issues"
+  },
+  "homepage": "https://github.com/albennett/utility-functions#readme"
+}
